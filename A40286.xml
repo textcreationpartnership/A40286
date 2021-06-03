@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To all people in all Christendom concerning perfect love, pure wisdome and the holy faith and who they are that banisheth them, and who they are that entertains them, and how Christendome hath not received this love ... but hath received envy and wrath ... : also concerning Christs flesh which was offered and Adams flesh which was defiled, and concerning the outward offerings and sacifices ... and concerning the belief in Christ the offering and concerning  Adam in the fall, and concerning Adam before he fell ... and concerning the eating of Christs flesh and drinking his blood, and who hath life and who hath not.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <extent>Approx. 25KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40286</idno><idno type="EEBO-CITATION">11132625</idno>
+  <idno type="VID">46374</idno>
+  <idno type="EEBO-PROQUEST">2240944968</idno>
+  
+            <idno type="STC">Wing F1940</idno>
+            <idno type="STC">ESTC R29433</idno>
+            <idno type="OCLC">11132625</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A40286)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46374)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1423:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To all people in all Christendom concerning perfect love, pure wisdome and the holy faith and who they are that banisheth them, and who they are that entertains them, and how Christendome hath not received this love ... but hath received envy and wrath ... : also concerning Christs flesh which was offered and Adams flesh which was defiled, and concerning the outward offerings and sacifices ... and concerning the belief in Christ the offering and concerning  Adam in the fall, and concerning Adam before he fell ... and concerning the eating of Christs flesh and drinking his blood, and who hath life and who hath not.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for M.W.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1663]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: G.F.</note>
+                  <note>Imprint on p. 8.</note>
+                  <note>Imperfect: torn. Defective British Library copy spliced at end.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:46374:1"/>
+            <pb n="1" facs="tcp:46374:1"/>
+            <head>To all people in all <hi>CHRISTENDOM Concerning perfect love, pure wisdome</hi> and the holy faith, and who they are that banisheth them, and who they are that entertains them; and how Christendome hath not received this love and this Faith to edifie and build them; but hath received envy, and wrath, which sets them on heaps one against another, so not receiving love, they cannot edifie, nor receiving faith they can<g ref="char:EOLhyphen"/>not build. <hi>Also concerning Christs flesh</hi> which was offered, and <hi>Adams</hi> flesh which was defiled, and concerning the outward Offerings and Sacrifices, and in what they were held, and concerning the be<g ref="char:EOLhyphen"/>lief in the outward offerings, and concerning the belief in Christ the offering, and concerning <hi>Adam</hi> in the fall, and concerning <hi>Adam</hi> before he fell, and concerning Christ that doth never fall, and concerning the eating of Christs flesh, and drinking his blood, and who hath life, and who hath not.</head>
+            <p>
+               <hi>ALL Christendome,</hi> with all its sects and opinions, and judgements, that edifieth not one another, because they are out of the love and out of the true faith that works by love; so first they cannot build being out of that faith that workes by love, for the building is in the holy faith, so they lye like confused <hi>Babel,</hi> and cannot build up one another in the holy faith, being out of this holy faith that works by love; so this wor<g ref="char:EOLhyphen"/>ker is not entertained amongst them for in that is the building which faith works by love, so if they come to build they must come to love, and if they come to love they must come to the light and life and spirit of Christ within them; and this faith also must be felt within purifying and give<g ref="char:EOLhyphen"/>ing victory over that which seperates from God, if they come to this wor<g ref="char:EOLhyphen"/>ker, and in that is the love and the unity in the faith and there is building up in the holy faith, so they must come to that which is holy if they build, yea in themselves, that gives them victory over the unholy; so all the sects in Christendome cannot edifie one another, together with all her Teachers, Bishops and Pastors, and the cause is they are not in the love, so
+<pb n="2" facs="tcp:46374:2"/> not being in the love they are not in the life, nor in the power, nor in the edification, but in the perversness; and so not being in the love, not in that which should edifie one another, nor in that which doth fulfil the law which is love, but they are executing the law and revenging themselves one upon another by their own inventions; and this is the cause of all the Sects among the professions, who have the words of the Apostles, but out of the power, and the life, and the love: So being out of this power, life and love, they are all in Sects, and out of edification and the holy faith; many heads, many bodies from the spirit, and this is now while they are from the spirit of God in themselves, and so from the one Baptisme which should plunge down all the corruptions that is got up in the transgression, which is the cause of all Sects and Opinions and divisions one against ano<g ref="char:EOLhyphen"/>ther, and many bodies and heads. So now the wisdome that is pure from above and gentle, and easie to be intreated, is banisht out of Christendome, who are turned into sects, and one devouring another with the devilish wisdome. (Wisdome cryes in your streets) the pure wisdome and gentle, but who entertains this gentle and peaceable wisdome, this may cry up and down in the streets all Christendome over, and have no entertainment but frowardness and vanity, and folly, and perversness, this is entertained in the house; but wisdome that is gentle and peaceable and pure may cry up and down the streets, and (get neither lodging nor entertainment) amongst you, who saith while ye be upon earth you must not be pure, so there is no place for the wisdome that is pure nor entertainment, and to love enemies like<g ref="char:EOLhyphen"/>wise, which love doth edifie and build up together, where is this edifier entertained? who entertains it? for if you all entertained this edifier, it would build you up together, then you must entertain the light that con<g ref="char:EOLhyphen"/>demns you for sin, and brings you out of darkness, you must entertain the life that brings you from death, and the power of God which brings from the power of Satan; and doth not the sects in Christendome say, there is no perfection here, and how can they then entertain the perfect love, and give it lodging? for if they did so they would entertain that which would edifie them in love, and bring them into one body that which would overcome, en<g ref="char:EOLhyphen"/>tertain that which would heap coales of fire on their heads, but the world will not entertain this edifier that will heap coales of fire on their heads, it is to hot for them, it is not like they should entertain this edifier that doth not entertain and love the light within, for that is its chamber which is the best room; and therefore not entertaining this love which should edifie, they do not entertain the Gospel nor the fellowship of it, which Gospel the power of God was before any sects or opinion was: secondly the worship of
+<pb n="3" facs="tcp:46374:2"/> God which is in the spirit and the truth, was before sects and opinions and all other worships was, which spirit and truth will remain when all other worships are gone; which spirit entertains the love that edifies and the wisdome that is pure from above in its best room, love that is perfect comes to edifie, and all the sects cry out no perfection here; and so they live in strife one amongst another, and entertains strife amongst them; and they are in that which is impure and not the pure wisdome, and so perfect love that edifies hath no place nor entertainment, and that wisdome that is pure from above which cryes in the streets and knocks at their doors, amongst the unpure and the ungentle that shuts the door and cryes no per<g ref="char:EOLhyphen"/>fection here, no purity, we have no lodging for thee here; so the world and the professors cryrs no purity upon the earth, no entertainment for thee nor the gentle spirit, but the froward and perverse hath its lodging there, and so perfect love which edifies hath no place nor entertainment amongst all that denies perfection, and such are devouring one another entring into strife, and not the love which should edifie one another, such be the Wolves in sheeps cloathing, who have gotten the words out of the life, and are er<g ref="char:EOLhyphen"/>red from the spirit of God and the power of God in themselves, in which you would all have unity and life and peace if you did obey it, in which power the love of God is received, and the enmitie is put out that hath made men imperfect, and so come to receive perfection and edification; but the pure love hath been banisht, and so edification hath not been a<g ref="char:EOLhyphen"/>mongst the banishers of it; and this holy faith that works by love, this ho<g ref="char:EOLhyphen"/>ly worker hath been banisht, Christendome hath banisht him out from a<g ref="char:EOLhyphen"/>mongst them, and so the evil worker hath had the place and hath ruled, and not the holy faith, that worker that workes by love; and likewise wis<g ref="char:EOLhyphen"/>dome hath been banisht that is pure from above, and gentle, and the wis<g ref="char:EOLhyphen"/>dome that is below that is earthly sensual divelish, of the divils nature, this is entertained in Christendome, their fruits declares it: So then let all Christendome consider what their houses are full of, and who is their companions, and who is their guests, and seeing holy faith and perfect love and pure wisdome from above is not entertained amongst them, and would not give it place, though it hath long cryed in their streets and knockt at their doors, who hath given it no entertainment so hath not entertained love but wrath and envy, and strife, and hath not entertained truth but error, now that which is impure and unholy hath not entertained that which is holy and pure; this is manifest by their fruits what all entertains and what all banisheth, that which would do them good and edifie them, and build them, that which should preserve them pure and sweet and sa<g ref="char:EOLhyphen"/>vory to God.</p>
+            <pb n="4" facs="tcp:46374:3"/>
+            <p>
+               <hi>Concerning Christs flesh which was offered, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Christ,</hi> the Lamb slain from the foundation of the world when it began its foundation, then the Lamb was slain, then the world was set up in mans heart that he did not see the beginning nor the ending of the works of God, and then <hi>Adam</hi> and <hi>Eves</hi> clean flesh was defiled and clean bodies, and clean minds, when they transgressed and transgression entred, so came sin into <hi>Adam</hi> and <hi>Eve,</hi> and then came death, and then the body of death made up in the sin and transgression in <hi>Adams</hi> flesh and <hi>Eves,</hi> then was their minds defiled, and their spirits and their souls came into death and and their flesh defiled, then came their understandings to be darkned, and Christ according to the flesh Crucified, the Lamb slain, that flesh of his which is a mistery, when the first <hi>Adam</hi> and <hi>Eves</hi> flesh was defiled, and so death reigned from <hi>Adam</hi> to <hi>Moses;</hi> sin was and had its being in the world, which made deaths authority, and set up its reign, so death reigned from <hi>Adam</hi> to <hi>Moses,</hi> then <hi>Moses</hi> which had the Law, by whom the Law came, who was a great prophet which saw the Garden of God that man was in and woman before they fell, and their good, and pure and blessed state, and their high spirit and dignity and power through which they had dominion, from which power and spirit and dominion and righ<g ref="char:EOLhyphen"/>teousness and holiness they fell from, and so into a low spirit like a beast, therefore they have the names of beasts given unto them, man and woman, after process of time, so the law coming by <hi>Moses</hi> which was the higher power that went over all transgressors, and he saw the first transgression upon earth, the law that was just and righteous, and equal, an even bal<g ref="char:EOLhyphen"/>lance and a just weight which brought every one to do to others as they would have them do unto them; this limitted people from sin and kept them from sin, and so from death and that which brought death and so the people was to hear <hi>Moses</hi> and hear the Law, to whom God gave wis<g ref="char:EOLhyphen"/>dome and a pattern to make and to set up the Types and the figures and the shaddows, and the Priesthood, and the offerings which was held up by the pure, the holy, and the just law, and was set up and stablished, which of<g ref="char:EOLhyphen"/>ferings, sacrifices, figures, shaddows variables, changable things which was set up by the pure Law, was held by the pure part of man and woman, who was to eat of the clean beasts, to whom several things was unclean, though in themselves they might be clean, and in these shadows, varia<g ref="char:EOLhyphen"/>bles, changeables set up by the law and in the Law those offerings was the belief of all those people placed, centered and grounded which was in these outward things, which belief stood in the clean part of them, which was made clean by the pure law, and in this stood the righteousness of the Law, and in this lyes the righteousness of the Scribes and Pharisees, from the
+<pb n="5" facs="tcp:46374:3"/> clean part, in which the belief lies in the offerings, and that clean part held the offerings, an offering for a defilement, yet still the clean to be of<g ref="char:EOLhyphen"/>fered; and in this stands the belief setled, framed, and firm, in which part God shewed his wonders, now to this part Christ spake his Parables, and when the Iews did transgress the law of God, the Prophets told them that they oppressed the seed as a cart with sheaves, and likewise the Prophets did see Christ that had been slain from the foundation of the world, and bruised, which <hi>Moses, David, Abraham</hi> and the rest of the Prophets saw that he was to rise, that God would raise him up, who should come in the end of the book, that is in the end of the words in the end of the Prophets, in the end of the Types, and figures and shadows in the end of all variable things, now the death reigning from <hi>Adam</hi> to <hi>Moses</hi> then the law came with its Types, figures, and shadows, so the state of death reigning from <hi>A<g ref="char:EOLhyphen"/>dam</hi> to <hi>Moses</hi> there the flesh is defiled; then as <hi>Moses</hi> the law that li<g ref="char:EOLhyphen"/>mits sin that brings death here the flesh is purified and made clean by the offering, nnd there is the belief in that which makes clean, which is for the cleansing of the flesh, so as the seed is raised up, Christ Iesus, which comes to destroy the Devil the power of death, which hath lyen under and been slain from the foundation of the world; that man and woman trans<g ref="char:EOLhyphen"/>gressed, through which death entred, so as the seed, Christ, comes over all that destroyes death and the Divel the power of it, the author of all envy and wrath and all transgression, who is the offering which comes to end all the offerings and that belief that stood in them which stood in the pure part in the offering; so the belief was to be turned into the seed, that put down the offering and the offerer, and destroyed the cause of the offering to wit the Devil, and the sin, so the belief lay in this one offering, Christ, which was the offering once for all; so the belief comes into this righteous<g ref="char:EOLhyphen"/>ness, Christ the seed, for the other righteousness was held in the clean part in which was the offering, so he ends and puts down that righteousness who is the righteousnes, and that part and mind and eye that stands in it, that they may come to a thing that is lower and under, and higher, and o<g ref="char:EOLhyphen"/>ver all and before all, that is the righteousness it self, so in this lies the be<g ref="char:EOLhyphen"/>lief, so then in the life and in the substance, and is the end of all types, fi<g ref="char:EOLhyphen"/>gures, shadows, and so the seed puts down that part that doth pertain to all types, figures and shadows, in which seed their is no shadow: Now their is <hi>Adam</hi> and <hi>Eves</hi> flesh before they fell pure and there is <hi>Adam</hi> and <hi>Eves</hi> flesh in the fall defiled and the law was held in the pure part, with its types and figures and shadows that cleansed, so <hi>Adams, Eves</hi> flesh was defiled, but the flesh of Christ, the Lamb slain from the foundation of the world,
+<pb n="6" facs="tcp:46374:4"/> yet his flesh never corrupted, which flesh is the offering, for as he was God he did not die, and this flesh is a mystery, and in this flesh is the belief that takes away the sin that never corrupted that is the offering for the sin, and the blood of this flesh cleanseth from sin, and not the offering of bulls and Goats for that is yearly cleansing, but this is once for all, this offering who is found in the shape of a man, and the form of a servant, the great myste<g ref="char:EOLhyphen"/>ry, God made manifest in the flesh, seen of Angels, justified in the Spirit, and where this belief is entred into his flesh, it knowes <hi>Adams</hi> flesh that corrupted, it knowes the clean flesh that was cleansed by the outward offe<g ref="char:EOLhyphen"/>rings which held the law and commandements, in which flesh stood its be<g ref="char:EOLhyphen"/>life and righteousness, but that flesh with its types must all have an end, &amp; its law and righteousness in the seed, and by the flesh of Christ ends all those fleshly things so the belief in Christs flesh his body the offering, the belief in the offering that puts down all the offerings and the offerer, and the part that doth pertain to the outward offerings the belief brings over the outward offerings and the part that doth pertain to them, the seed, which is Christ the offering it self in which is the belief, in him who was with the Father before the world began. Secondly, the seed, the offering, Christ destroyes the Devil and his works, all the false offerings which God never comman<g ref="char:EOLhyphen"/>ded never set up, the seed destroyes them, and the darkness that is in peo<g ref="char:EOLhyphen"/>ple, and that part in them that doth pertain to their inventions and outward offerings and so through his flesh he doth reconcile, and by the offering up his body, his flesh, that which hath been slain from the foundation of the world, and yet never corrupted, through the offering up of his flesh, his body, he breaks down the partitian wall betwixt Iews and Gentiles, and makes a plain, and puts down Iews offerings and the law and Commandements that held them up, and likewise puts down the Gentiles offerings which God ne<g ref="char:EOLhyphen"/>ver commanded, and destroys the Devil the Author of inventions, and the author of the sin, for which cause there was the offering of the bullock, which offering and offerer and the part that doth partain to the offering; Christ offering once for all put all the other down, and destroyes the Devil who is the Author of sin, through which sin came the offering of the bullock, which Christ ends by offering up himself, and destroys the Devil, the seed Christ who is the offering it self, in whom there is no shadow nor variableness, nor changing, who reconciles in one, things in heaven &amp; things in earth, who de<g ref="char:EOLhyphen"/>stroyes the Divel through death who hath the power of death, so the seed reignes his flesh the offering is beleived in and fed upon, it must be eaten if people have life, which is a mystery as ever to all them that stops their ears, &amp; closes their eyes to the eternal principle of God in th<gap reason="illegible" resp="#pdcc" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, Christ flesh is a
+<pb n="7" facs="tcp:46374:4"/> miste<g ref="char:EOLhyphen"/>ry to them as it was to the Iews, for they that stop their ears they hold up outward sacrifices, and slay Christ in themselves, and press him as a cart with sheaves; and such were they that Crucified him without them when he was man<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fest and appeared in flesh God was in this flesh, he took not up<g ref="char:EOLhyphen"/>on him the nature of Angels but the seed of <hi>Abraham,</hi> not the nature of Angels, for he came lower, so all must be of this flesh and bone of Christ if they be of his Church, which he is head of, <hi>(mark)</hi> of his flesh which shal never corrupt, which neither death nor bonds can hold, but in the deter<g ref="char:EOLhyphen"/>minate and appoin<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed time of God was raised up, now they that are in the belief of this flesh and offering, sees over all offerings to the beginning into the glory which was with the Father before the world began; for all out<g ref="char:EOLhyphen"/>ward offerings and sacrifices was given to man after he fell, and the Lamb slain, which offering is a figure of Christ the seed to be brought forth and offered up, and he the topstone over all layd, and end and finish all the out<g ref="char:EOLhyphen"/>ward offerings and types and shadowes, and in him there is none; and also to bring man to the state that he was in before he fell, and not only thither but to himself, the seed; a state that shall never fall, and so in this stands the true belief, so all they that do and doth Crucifie Christ within them, and without them are such as stop their ears to the eternal principle of God in themselves, and close their eyes to it: and secondly all they that to themselves Crucifies Christ afresh, are such as stops their ears and clo<g ref="char:EOLhyphen"/>ses their eyes to the eternal principle of God in them; so grives and quenches, and vexes the spirit of God in ohem, and so they form a belief in themselves in the tossed part, and their belief is not in the eternal God, nor in the flesh of Christ the offering, for whose belief is in the flesh of Christ it is in the offering, through which they can see eternity, and so this belief is born of God, and this is a belief that shall never die, and this is a belief that shall never be condemned, which comes from death to life, and this is a belief in the onely true God, and in Iesus Christ whom he hath sent which is eternal life, <hi>(mark)</hi> this belief is in the eternal life, and in this belief here is no shaking, no variableness, no changing, no fading nor altering, but it is that which overcomes; and here is the new and living way, Christ is known to be the light and the life and the tru h, and he that believes hath the witness in himself, and hath the Seal, and can set to his seal that God is true who fulfills all his promises, and types, by the seed, the offering in whom their is no shadow, nor variableness, nor turning, nor twining, so through this offering is the reconciliation, through the offering of his flesh, that never corrupted, but takes away corruptions, and his blood cleanseth from corruptions, the life read. And so this pure flesh this offering is set over all, which never corrupted, which
+<pb n="8" facs="tcp:46374:5"/> must be your meat if you live, though there is more in al these things which is hard to be uttered &amp; cannot be uttered yet, <hi>(mark)</hi> there is <hi>Adams</hi> flesh defiled, whom Christ sanctifies and cleanseth, and perfecteth by his of<g ref="char:EOLhyphen"/>fering, and cleanseth by his blood, for as much as children were perta<g ref="char:EOLhyphen"/>kers of flesh and blood, he also took part of the same; so all Christendome hath talkt long enough of Christ flesh and blood, now had they all eaten his flesh and drunken his blood, then they had had all life in the Son of God, and then had they been feeding in the pasture of life, and then the<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap> had had all peace in him; but Christendome hath talked about the flesh and blood of Christ so long, that now they can hardly hear one another talk of it, they are so envious: But this is the word of the Lord to them all, they must eat his flesh and drink his blood if they live and have life in Christ, and had they done all so they had been quiet in Christ, from whence they have life, so now the belief lies in the offering Christ Iesus and there is a passing through Christs flesh, and a eating of his flesh, and a be<g ref="char:EOLhyphen"/>coming of his flesh and of his bone, and so through him they have life eter<g ref="char:EOLhyphen"/>nal, and through him they believe in God.</p>
+            <p>Object. <hi>But if any should hold the seed only within them, and that Christ is not come in the flesh, and hath not appeared in the shape of a man, to end all the offerings and sacrifices and typical things, and the offerer, and the part that doth pertain to them.</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> They must that holds that, that he is not come but onely is within them the seed, then see if that they speake of doth or hath brought them out of <hi>Adam</hi> in the fall, and puts down all <hi>Adams Eves</hi> sons and daugh<g ref="char:EOLhyphen"/>ters inventions which they have invented in their Idol minds and other outward offerings and services; for they that owne that Christ, that was offered, that was slain from the foundation of the world the Lamb, they owne that, and their belief stands in that which doth bring down the in<g ref="char:EOLhyphen"/>ventions of the sons of <hi>Adam,</hi> and daughters in the fall, and brings them up to the state that their Father <hi>Adam</hi> and their Mother <hi>Eve</hi> was in be<g ref="char:EOLhyphen"/>fore they fell, and so ends all the offerings and types, and figures and sha<g ref="char:EOLhyphen"/>dows that was given to man in the fall, and destroyes the inventions and the inventer, and so they that acts in Christ, they act in righteousness, and their works are wrought in God, and Christ, who brings them in the state of <hi>Adam</hi> and <hi>Eve</hi> before they fell, and to a state higher, to himself that shall never fall, who sees <hi>Adam</hi> and <hi>Eve</hi> before they fell, sees <hi>A<g ref="char:EOLhyphen"/>dam</hi> and <hi>Eve</hi> in the fall, sons &amp; daughters, and sees Christ that fetches out of the fall, that never fell, and in him is the life, and the peace and the sitting down that never falls.</p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for M. W.</p>
+            <trailer>The END.</trailer>
+            <pb facs="tcp:46374:5"/>
+            <pb n="1" facs="tcp:46374:6"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="2" facs="tcp:46374:7"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="3" facs="tcp:46374:7"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="4" facs="tcp:46374:8"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="5" facs="tcp:46374:8"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="6" facs="tcp:46374:9"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="7" facs="tcp:46374:9"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="8" facs="tcp:46374:10"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:46374:10"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
